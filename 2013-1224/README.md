@@ -4,7 +4,7 @@ ArrowSimulater
     動作も単純で、腕を上にあげ、弓を引くように下ろして行き、右手を下に振るという手順を踏むことで矢を放つことができる  
     この矢で的を射貫き得点を競うゲームである  
     画面内の的を一掃すると制限時間が増加し新たに的が出現してゲームを進める毎に難易度が上がっていく  
-
+**タイトル画像（元はコンセプトアート＝タイトル画像を描くよう頼んでいたが間に合わなかった）**
 ![リンクコピー](https://github.com/TsukasaKatsurahata/kaitIMT_kinect/blob/master/2013-1224/ArrowSimulater/ArrowSimulater/Resource/Back/ArrowSimulaterTitle.png?raw=true)
   
 ##概要##
