@@ -6,6 +6,9 @@ ArrowSimulater
     画面内の的を一掃すると制限時間が増加し新たに的が出現してゲームを進める毎に難易度が上がっていく  
 **タイトル画像（元はコンセプトアート＝タイトル画像を描くよう頼んでいたが間に合わなかった）**
 ![リンクコピー](https://github.com/TsukasaKatsurahata/kaitIMT_kinect/blob/master/2013-1224/ArrowSimulater/ArrowSimulater/Resource/Back/ArrowSimulaterTitle.png?raw=true)
+**状態遷移**
+![GIF_anime]()
+**実行画面（デバグ時）**
   
 ##概要##
 **講義名**
